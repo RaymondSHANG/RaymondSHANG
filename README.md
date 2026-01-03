@@ -48,5 +48,3 @@ With over 8 years of experience in high-dimensional omics, I have:
 - 💼 **LinkedIn:** [linkedin.com/in/yuanshang2020](https://www.linkedin.com/in/yuanshang2020)
 - 📜 **Google Scholar:** [Yuan Shang Publications](https://scholar.google.com/citations?user=APooktAAAAAJ&hl=en)
 - 📧 **Email:** [Shangyuan5000@gmail.com](mailto:Shangyuan5000@gmail.com)
-
-![Yuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=raymondshang&show_icons=true&theme=radical)
