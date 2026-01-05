@@ -6,6 +6,7 @@ I am a **Data Scientist** based in **Cary, NC**. I specialize in bridging the ga
 - 🎓 **Education:** Ph.D. in Biochemistry(structure biology) (HKUST), M.S. in Statistics (U of Arizona), and M.S. in Computer Science (Georgia Tech).
 - 🔬 **Research:** Author of **30+ peer-reviewed publications** with **2100+ citations**.
 
+My Blog: https://raymondshang.github.io/
 ---
 
 ### 🛠️ Tech Stack & Skills
